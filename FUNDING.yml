@@ -7,8 +7,4 @@
 # otechie: wolf
 # patreon: devidwolf
 # tidelift:
-custom:
-  - 'buymeacoffee.com/dwolf
-  - 'paypal.me/devidwolf'
-  - 'bitcoin:3LqkazbPsnvDCZEvtnQLF5EYaxVwHrkASR'
-  # - ''
+custom: ['buymeacoffee.com/dwolf', 'paypal.me/devidwolf',]
